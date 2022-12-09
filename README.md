@@ -34,7 +34,7 @@ Meu nome é Lívia, sou menor de idade e atualmente estou estudando para entrar 
 - <a href= "https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye"/>Módulo 2 do curso de Python do Curso em Vídeo </a>
 
 ### Projetos em andamento:
-- Nada por aqui ainda :(
+- <a href="https://github.com/livia-lima/pedra-papel-tesoura-python">Jogo de pedra, papel e tesoura em Python </a>
 
 ### Cursos que quero fazer:
 - <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV"/>Curso de Segurança da Informação do Curso em Vídeo </a>
