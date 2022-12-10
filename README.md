@@ -1,15 +1,9 @@
   <div align="center"> 
     <h1> Oioi, bem-vindo(a) ao meu perfil! ・゜・。. ☄️ </h1>
+    <img src="https://giffiles.alphacoders.com/195/195287.gif" />
+    <h1> ˗ˏˋ Informações gerais ´ˎ˗ </h1>
   </div>
  
-<div id="header" align="center">
-  <img src="https://giffiles.alphacoders.com/195/195287.gif" />
-</div>
-
-<div align="center">
-  <h1> ˗ˏˋ Informações gerais ´ˎ˗ </h1>
-</div>
-
 Meu nome é Lívia, sou menor de idade e atualmente estou estudando para entrar em alguma universidade. Estudo programação nas horas vagas e o meu foco é me tornar uma dev full-stack! 
 
 <div align="center">
