@@ -4,7 +4,7 @@
     <h1> ˗ˏˋ Informações gerais ´ˎ˗ </h1>
   </div>
  
-Meu nome é Lívia, sou menor de idade e atualmente estou estudando para entrar em alguma universidade. Estudo programação nas horas vagas e o meu foco é me tornar uma dev full-stack! 
+Meu nome é Lívia! Atualmente estou estudando para entrar em alguma universidade e estudando programação nas horas vagas. 
 
 <div align="center">
 
