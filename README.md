@@ -4,7 +4,7 @@
     <h1> ˗ˏˋ Informações gerais ´ˎ˗ </h1>
   </div>
  
-Meu nome é Lívia! Atualmente estou estudando para entrar em alguma universidade e estudando programação nas horas vagas. 
+Meu nome é Lívia! Atualmente estou estudando para entrar em alguma universidade e programação nas horas vagas. 
 
 <div align="center">
 
@@ -18,20 +18,20 @@ Meu nome é Lívia! Atualmente estou estudando para entrar em alguma universidad
 - Inteligência artificial
 - Back-end 
 - Cyber security
+- Data Science 
 
 ### Minha linguagem favorita é...
 - Python. Por favor não me julgue kkkk
 
 ### Cursos/livros em andamento:
-- <a href ="https://altabooks.com.br/produto/introducao-ao-html5-e-css3-a-evolucao-da-web/">Introdução ao HTML5 e CSS3: A evolução da web </a>
-- <a href= "https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n"/>Módulo 1 do curso de HTML5 e CSS3 do Curso em Vídeo </a>
-- <a href= "https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye"/>Módulo 2 do curso de Python do Curso em Vídeo </a>
+- <a href= "https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH"/>Módulo 3 do curso de Python do Curso em Vídeo </a>
 
 ### Projetos em andamento:
 - <a href="https://github.com/livia-lima/pedra-papel-tesoura-python">Jogo de pedra, papel e tesoura em Python </a>
 
 ### Cursos que quero fazer:
 - <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV"/>Curso de Segurança da Informação do Curso em Vídeo </a>
+- <a href="https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r"/>Curso de Java da Loiane Groner </a>
 
 <div align="center">
   <h1> ・゜・。. 🚀 Obrigada por ler até aqui! </h1>
