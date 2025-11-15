@@ -1,11 +1,23 @@
   <div align="center"> 
-    <h1> Oioi, bem-vindo(a) ao meu perfil! ・゜・。. ☄️ </h1>
+    <h1> Hello, world ・゜・。. ☄️ </h1>
     <img src="https://giffiles.alphacoders.com/195/195287.gif" />
-    <h1> ˗ˏˋ Informações gerais ´ˎ˗ </h1>
   </div>
- 
-Meu nome é Lívia! Atualmente estou estudando para entrar em alguma universidade e programação nas horas vagas. 
 
+ 
+Busco compreender a teoria complexa por trás do sistemas e utilizá-las para desenvolver aplicações práticas. 
+
+Academicamente, sou apaixonada pelo uso de grafos para a modelação de relações complexas entre objetos e suas inúmeras aplicações na computação. Esse gosto me levou a pesquisar Coloração de Grafos na universidade.
+
+Por outro lado, procuro transformar o aprendizado obtido em sala de aula e em estudos autônomos em projetos práticos. Afinal, o que mais me atrai na programação é o fato de algumas linhas de texto poderem criar mundos, fazer milhares de contas em milissegundos e impactar a vida de milhares de pessoas.
+
+### 💻 Tecnologias e Habilidades
+
+Minha linguagem principal no momento é o **C**, que uso para desenvolver projetos em uma disciplina da universidade.
+
+* **Linguagens:** Python, C
+* **Interesses:** Inteligência Artificial, Data Science
+* **Ferramentas:** Git, Microsoft Excel (Intermediário), Azure AI
+* **GitHub Stats:**
 <div align="center">
 
   <a href="https://github.com/livia-lima">
@@ -14,25 +26,22 @@ Meu nome é Lívia! Atualmente estou estudando para entrar em alguma universidad
   
 </div>
 
-### Tenho interesse em...
-- Inteligência artificial
-- Back-end 
-- Cyber security
-- Data Science 
+### 🌱 Projetos e Aprendizado Ativo
 
-### Minha linguagem favorita é...
-- Python. Por favor não me julgue kkkk
+* **📚 Em andamento:**
+    * [Certificação AI-102](https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
+    * Estudando Computação Gráfica com C e [Raylib](https://github.com/raysan5/raylib).
 
-### Cursos/livros em andamento:
-- <a href= "https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH"/>Módulo 3 do curso de Python do Curso em Vídeo </a>
+* **🚀 Projetos:**
+    * [Jogo de pedra, papel e tesoura em Python](LINK_DO_PROJETO)
+    * [Circunferência saltitante]()
 
-### Projetos em andamento:
-- <a href="https://github.com/livia-lima/pedra-papel-tesoura-python">Jogo de pedra, papel e tesoura em Python </a>
+* **🎯 Próximos Passos:**
+    * [Certificado de Analista de Dados](https://www.coursera.org/professional-certificates/google-data-analytics#courses).
 
-### Cursos que quero fazer:
-- <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV"/>Curso de Segurança da Informação do Curso em Vídeo </a>
-- <a href="https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r"/>Curso de Java da Loiane Groner </a>
+### 📫 Conecte-se comigo
 
-<div align="center">
-  <h1> ・゜・。. 🚀 Obrigada por ler até aqui! </h1>
- </div>
+* [**LinkedIn**](www.linkedin.com/in/lívia-lima-85932a2b9)
+  <div align="center"> 
+    <h1> ・゜・。. ☄️ </h1>
+  </div>
