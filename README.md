@@ -4,19 +4,26 @@
   </div>
 
  
-Busco compreender a teoria complexa por trás do sistemas e utilizá-las para desenvolver aplicações práticas. 
+I'm a **Computer Science student at UTFPR** passionate about deconstructing complex problems through the lens of mathematics and efficient algorithms. I believe that a strong theoretical foundation is the key to building the next generation of technology.
 
-Academicamente, sou apaixonada pelo uso de grafos para a modelação de relações complexas entre objetos e suas inúmeras aplicações na computação. Esse gosto me levou a pesquisar Coloração de Grafos na universidade.
+Currently, I am an **Undergraduate Research Assistant** focused on **Graph Theory**. I spend my time exploring relational structures, graph coloring, and how these concepts can be applied to solve real-world problems.
 
-Por outro lado, procuro transformar o aprendizado obtido em sala de aula e em estudos autônomos em projetos práticos. Afinal, o que mais me atrai na programação é o fato de algumas linhas de texto poderem criar mundos, fazer milhares de contas em milissegundos e impactar a vida de milhares de pessoas.
+### 📚 What I'm Learning Right Now
+- **Cloud & AI:** Preparing for the **Microsoft AI-102 (Azure AI Engineer Associate)** certification.
+- **Competitive programming:** Going through CSES's problem set to further my understanding of algorithms 
+- **Business Sense:** Bridging the gap between technical code and business KPIs through Data Analytics.
 
-### 💻 Tecnologias e Habilidades
+### 🎯 Main Interests
+- **Data Science:** Turning raw data into strategic insights and "storytelling" with data.
+- **Artificial Intelligence:** Exploring how Graph Theory and Neural Networks converge.
+- **Cybersecurity:** Understanding system vulnerabilities and building secure-by-design software.
 
-Minha linguagem principal no momento é o **C**, que uso para desenvolver projetos em uma disciplina da universidade.
+### 🛠️ Skills & Tools
+- **Languages:** Python, C, SQL.
+- **Data:** Pandas, Matplotlib, basic Power BI.
+- **Research:** LaTeX, Graph Theory algorithms.
+- **Communication:** **English C1** (Advanced/Fluent).
 
-* **Linguagens:** Python, C
-* **Interesses:** Inteligência Artificial, Data Science
-* **Ferramentas:** Git, Microsoft Excel (Intermediário), Azure AI
 * **GitHub Stats:**
 <div align="center">
 
@@ -26,20 +33,7 @@ Minha linguagem principal no momento é o **C**, que uso para desenvolver projet
   
 </div>
 
-### 🌱 Projetos e Aprendizado Ativo
-
-* **📚 Em andamento:**
-    * [Certificação AI-102](https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
-    * Estudando Computação Gráfica com C e [Raylib](https://github.com/raysan5/raylib).
-
-* **🚀 Projetos:**
-    * [Jogo de pedra, papel e tesoura em Python](LINK_DO_PROJETO)
-    * [Circunferência saltitante]()
-
-* **🎯 Próximos Passos:**
-    * [Certificado de Analista de Dados](https://www.coursera.org/professional-certificates/google-data-analytics#courses).
-
-### 📫 Conecte-se comigo
+### 📫 Let's connect
 
 * [**LinkedIn**](www.linkedin.com/in/lívia-lima-85932a2b9)
   <div align="center"> 
