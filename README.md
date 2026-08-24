@@ -8,21 +8,15 @@ I'm a **Computer Science student at UTFPR** passionate about deconstructing comp
 
 Currently, I am an **Undergraduate Research Assistant** focused on **Graph Theory**. I spend my time exploring relational structures, graph coloring, and how these concepts can be applied to solve real-world problems.
 
-### 📚 What I'm Learning Right Now
-- **Cloud & AI:** Preparing for the **Microsoft AI-102 (Azure AI Engineer Associate)** certification.
-- **Competitive programming:** Going through CSES's problem set to further my understanding of algorithms 
-- **Business Sense:** Bridging the gap between technical code and business KPIs through Data Analytics.
+**🎯 Main Interests**
+- Data Science 
+- Artificial Intelligence
 
-### 🎯 Main Interests
-- **Data Science:** Turning raw data into strategic insights and "storytelling" with data.
-- **Artificial Intelligence:** Exploring how Graph Theory and Neural Networks converge.
-- **Cybersecurity:** Understanding system vulnerabilities and building secure-by-design software.
-
-### 🛠️ Skills & Tools
-- **Languages:** Python, C, SQL.
-- **Data:** Pandas, Matplotlib, basic Power BI.
-- **Research:** LaTeX, Graph Theory algorithms.
-- **Communication:** **English C1** (Advanced/Fluent).
+**🛠️ Hard skills**
+- **Languages**: Python, C, SQL
+- **Tools**: MySQL, Pandas, Numpy, Matplotlib, Sklearn
+- **Research:** LaTeX
+- **Communication:** English C1 (Advanced)
 
 * **GitHub Stats:**
 <div align="center">
